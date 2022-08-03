@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.25",
+    "react-styled-flex": "^2.2.0",
+    "styled-components": "^5.3.5"
   }
 }
